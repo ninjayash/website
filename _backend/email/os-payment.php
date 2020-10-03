@@ -5,6 +5,9 @@
  * PHP function for sending out OS receipt emails
  */
 
+#happy coding 
+
+
 require_once __DIR__ . '/../../_backend/preload.php';
 require_once __DIR__ . '/../../_backend/config.loader.php';
 
